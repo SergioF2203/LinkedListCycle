@@ -10,6 +10,7 @@ namespace LinkedListCycle
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
